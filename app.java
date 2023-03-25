@@ -1,5 +1,6 @@
-This is great
-developing java apps
-.net application
-NodeJS application
+We support;
+java applicaations
+.net applications
+NodeJS applications
 python applications
+Web applications
