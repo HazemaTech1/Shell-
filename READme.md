@@ -1,2 +1,2 @@
 this is a Shell project repository
-this shell application for payments
+this is a shell application for payments
