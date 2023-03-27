@@ -1,3 +1,3 @@
-this is a Shell project repository
-this is a shell application for payments
-Applications most be tested
+This is a Shell project repository
+This is a shell application for payments
+Applications must be tested
